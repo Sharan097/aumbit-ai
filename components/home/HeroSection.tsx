@@ -31,7 +31,7 @@ export default function HeroSection() {
           Create High-Impact Ads{' '}
           <br className="hidden sm:block" />
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400">
-            Instantly with Aumbit AI
+            Instantly with Advertise AI
           </span>
         </h1>
 
@@ -40,7 +40,7 @@ export default function HeroSection() {
           className="text-lg sm:text-xl lg:text-2xl text-slate-300 max-w-4xl mx-auto mb-10 leading-relaxed animate-fade-in"
           style={{ animationDelay: '0.3s' }}
         >
-          Aumbit AI helps businesses generate stunning ads — images, videos, and
+          Advertise AI helps businesses generate stunning ads — images, videos, and
           text — in minutes using AI.{' '}
           <span className="text-white font-medium">
             No design skills. No complex workflows.

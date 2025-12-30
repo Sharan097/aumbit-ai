@@ -18,12 +18,12 @@ export default function WhatIsSection() {
           <div className="lg:w-1/2">
             <div className="mb-8">
               <h2 className="text-4xl lg:text-5xl font-bold text-slate-900 mb-6">
-                What is Aumbit AI?
+                What is Advertise AI?
               </h2>
               <p className="text-lg lg:text-xl text-slate-600 leading-relaxed">
-                Aumbit AI is an advertisement AI platform that automates ad
+                Advertise AI is an advertisement AI platform that automates ad
                 creation for products, technologies, and solutions. From visuals
-                to copy, Aumbit AI handles everything — faster, smarter, and at
+                to copy, Advertise AI handles everything — faster, smarter, and at
                 scale.
               </p>
             </div>
@@ -50,7 +50,7 @@ export default function WhatIsSection() {
             <div className="relative rounded-2xl overflow-hidden shadow-2xl border-4 border-white">
               <Image
                 src="https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
-                alt="Aumbit AI Dashboard Preview"
+                alt="Advertise AI Dashboard Preview"
                 width={1000}
                 height={667}
                 className="w-full h-auto"

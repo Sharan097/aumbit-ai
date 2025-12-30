@@ -23,7 +23,7 @@ const industries = [
   {
     image: 'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=800',
     title: 'Emerging Tech',
-    description: 'AI, Web3, and Cloud providers use Aumbit to visualize abstract concepts.',
+    description: 'AI, Web3, and Cloud providers use Advertise to visualize abstract concepts.',
     alt: 'Technology and innovation concept',
   },
 ];
@@ -98,7 +98,7 @@ export default function IndustriesPage() {
         {/* Bottom Quote */}
         <div className="mt-16 text-center">
           <p className="text-slate-600 text-lg italic max-w-3xl mx-auto">
-            "Whether you're launching, scaling, or advertising globally — Aumbit AI adapts to your needs."
+            "Whether you're launching, scaling, or advertising globally — Advertise AI adapts to your needs."
           </p>
         </div>
 

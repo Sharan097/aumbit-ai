@@ -19,13 +19,13 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Why Aumbit AI',
+  title: 'Why Advertise AI',
   description:
     'Purpose-built AI capabilities and competitive advantages designed for modern advertising.',
 };
 
 /* =======================
-   WHY AUMBIT – ADVANTAGES
+   WHY ADVERTISE AI – ADVANTAGES
 ======================= */
 const advantages = [
   {
@@ -131,12 +131,12 @@ export default function WhyAumbitPage() {
     <div className="animate-fade-in bg-gradient-to-b from-white to-slate-50 dark:from-slate-900 dark:to-slate-800">
 
       {/* =======================
-          WHY AUMBIT SECTION
+          WHY Advertise SECTION
       ======================= */}
       <section className="pt-20 sm:pt-24 md:pt-28 pb-12 sm:pb-16">
         <div className="container mx-auto px-4 sm:px-6">
           <SectionHeading
-            title="Why Aumbit AI?"
+            title="Why Advertise AI?"
             subtitle="The competitive advantage your business needs."
           />
 
@@ -154,7 +154,7 @@ export default function WhyAumbitPage() {
       <section className="pt-12 sm:pt-16 md:pt-20 pb-16 sm:pb-20">
         <div className="container mx-auto px-4 sm:px-6">
           <SectionHeading
-            title="What Makes Aumbit AI Truly Different"
+            title="What Makes Advertise AI Truly Different"
             subtitle="Purpose-built AI capabilities designed for modern advertising — scalable, intelligent, and real-time."
           />
 

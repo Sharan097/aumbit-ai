@@ -5,11 +5,11 @@ import Footer from '@/components/layout/Footer';
 
 export const metadata: Metadata = {
   title: {
-    default: 'Aumbit AI - Create High-Impact Ads Instantly',
-    template: '%s | Aumbit AI',
+    default: 'Advertise AI - Create High-Impact Ads Instantly',
+    template: '%s | Advertise AI',
   },
   description:
-    'Aumbit AI helps businesses generate stunning ads — images, videos, and text — in minutes using AI. No design skills. No complex workflows.',
+    'Advertise AI helps businesses generate stunning ads — images, videos, and text — in minutes using AI. No design skills. No complex workflows.',
 };
 
 export default function RootLayout({

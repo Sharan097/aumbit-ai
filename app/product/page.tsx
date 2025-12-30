@@ -25,7 +25,7 @@ import {
 export const metadata: Metadata = {
   title: 'Product - Advertise AI',
   description:
-    'The core engine of Aumbit AI that automates the entire ad creation lifecycle. Powerful generative models tailored for marketing.',
+    'The core engine of Advertise AI that automates the entire ad creation lifecycle. Powerful generative models tailored for marketing.',
 };
 
 
@@ -106,7 +106,7 @@ export default function ProductPage() {
             </span>
           </h1>
           <p className="text-base sm:text-lg lg:text-xl text-slate-600 dark:text-slate-300 leading-relaxed mb-6 sm:mb-8 px-2">
-            The core engine of Aumbit AI that automates the entire ad creation
+            The core engine of Advertise AI that automates the entire ad creation
             lifecycle. Powerful generative models tailored for marketing.
           </p>
 

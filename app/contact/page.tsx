@@ -26,7 +26,7 @@ export default function ContactPage() {
               Ready to Transform Your Advertising?
             </h1>
             <p className="text-indigo-100 text-lg lg:text-xl mb-10 max-w-2xl mx-auto leading-relaxed">
-              Let Aumbit AI handle the creative — you focus on growth. Join the
+              Let Advertise AI handle the creative — you focus on growth. Join the
               waitlist or book a demo today.
             </p>
 

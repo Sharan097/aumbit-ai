@@ -15,7 +15,7 @@ export default function Footer() {
               <div className="w-9 h-9 bg-indigo-600 rounded-lg flex items-center justify-center text-white shadow-lg">
                 <Zap size={20} fill="currentColor" />
               </div>
-              <span>Aumbit AI</span>
+              <span>Advertise AI</span>
             </Link>
             <p className="max-w-xs text-slate-400 leading-relaxed mb-6">
               Automating creative workflows for modern businesses. Design better,

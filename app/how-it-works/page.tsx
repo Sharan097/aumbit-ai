@@ -5,7 +5,7 @@ import { Briefcase, Cpu, Layers, Zap, BarChart3 } from 'lucide-react';
 
 export const metadata: Metadata = {
   title: 'How It Works',
-  description: 'From idea to ad campaign in 5 simple steps with Aumbit AI.',
+  description: 'From idea to ad campaign in 5 simple steps with Advertise AI.',
 };
 
 
@@ -13,7 +13,7 @@ const steps = [
   {
     step: 1,
     title: 'Drop Your URL',
-    desc: 'Holo analyzes your website, learns your tone, style, and audience.',
+    desc: 'Aumbit analyzes your website, learns your tone, style, and audience.',
     icon: Briefcase,
     videoSrc:
       'https://framerusercontent.com/assets/xraB9gTdokcD9EEBke0DIbvXzXU.mp4',
@@ -37,7 +37,7 @@ const steps = [
   {
     step: 4,
     title: 'AI Analysis & Optimization',
-    desc: 'Aumbit AI analyzes performance and suggests improvements in real-time.',
+    desc: 'Advertise AI analyzes performance and suggests improvements in real-time.',
     icon: Zap,
     videoSrc:
       'https://framerusercontent.com/assets/xraB9gTdokcD9EEBke0DIbvXzXU.mp4',
@@ -224,7 +224,7 @@ export default function HowItWorksPage() {
             </h3>
             <p className="text-sm sm:text-base text-slate-600 dark:text-slate-300 max-w-xl px-2">
               Join thousands of businesses automating their ad creation with
-              Aumbit AI
+              Advertise AI
             </p>
           </div>
         </div>

@@ -203,7 +203,7 @@ export default function Navbar() {
 
   const navLinks = [
     { name: 'How It Works', href: '/how-it-works' },
-    { name: 'Why Aumbit', href: '/why-aumbit' },
+    { name: 'Why Advertise', href: '/why-aumbit' },
     { name: 'Industries', href: '/industries' },
     { name: 'Reach & Platforms', href: '/reach' },
   ];
@@ -221,7 +221,7 @@ export default function Navbar() {
               ⚡
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-slate-900 to-slate-700 dark:from-white dark:to-slate-300 bg-clip-text text-transparent">
-              Aumbit AI
+              Advertise  AI
             </span>
           </Link>
 
@@ -378,7 +378,7 @@ export default function Navbar() {
                           Explore All Features
                         </p>
                         <p className="text-xs text-slate-600 dark:text-slate-400">
-                          Discover the full power of Aumbit AI
+                          Discover the full power of Advertise AI
                         </p>
                       </div>
                     </div>

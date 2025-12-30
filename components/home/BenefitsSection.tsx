@@ -35,7 +35,7 @@ export default function BenefitsSection() {
       <div className="container mx-auto px-6">
         <SectionHeading
           title="Key Benefits"
-          subtitle="Why thousands of marketers are switching to Aumbit AI."
+          subtitle="Why thousands of marketers are switching to Advertise AI."
         />
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6 lg:gap-8">
           {benefits.map((benefit, i) => (
